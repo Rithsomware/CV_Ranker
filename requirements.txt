@@ -1,0 +1,9 @@
+"""create a python virtual envoironment in the terminal and run the script 'pip install -r requrements.txt' """
+Flask
+numpy
+pandas
+scikit-learn
+pytest
+flask-cors
+chardet
+python-docx
